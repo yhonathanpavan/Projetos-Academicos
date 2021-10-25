@@ -6,12 +6,12 @@ Olá! Com o passar dos dias na universidade, fui resolvendo alguns exercícios e
 
 ## Conteúdos que aprendi: 
 - Conceitos de:
- - Objeto;
- - Classe;
- - Métodos;
- - Atributos;
- - Herança;
- - Polimorfismo;
- - Encapsulamento;
+  - Objeto;
+  - Classe;
+  - Métodos;
+  - Atributos;
+  - Herança;
+  - Polimorfismo;
+  - Encapsulamento;
  
 ##      
