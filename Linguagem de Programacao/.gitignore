@@ -1,0 +1,12 @@
+### CodeBlocks ###
+# specific to CodeBlocks IDE
+*.layout
+*.depend
+# generated directories
+bin/
+obj/
+
+### Documents ###
+*.pdf
+*.docx
+*.txt
