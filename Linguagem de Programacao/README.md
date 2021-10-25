@@ -21,9 +21,4 @@ Olá! Com o passar dos dias na universidade, fui resolvendo alguns exercícios e
 
 - Estruturas (Structs) ou Registros;
 
-## Professor ##
-Esse conteúdo foi extraido do repositório do Professor Me. Marcos Roberto de Moraes, com os códigos realizados durante as aulas, disciplina de Programação Orientada a Objetos (POO).
-
-- Disponivel em: https://github.com/maromo71/poonoite
-
-##      
+##     
