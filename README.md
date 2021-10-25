@@ -1,14 +1,11 @@
-# Exercícios feitos em aula - Algoritmo e Lógica de programação.
+# Projetos e Exercícios Acadêmicos
 
-Olá! Com o passar dos dias na universidade, fui resolvendo alguns exercícios e desafios que foram propostos em aula. Esse diretório é referente ao meu desenvolvimento na matéria de Lógica de programação, com somente a resolução dos exercícios, sem os enunciados.
+Olá! Deixo aqui alguns exercícios e pequenos projetos que fiz durante o meu aprendizado na Fatec - Mogi Mirim. 
 
-(Todos os exercícios foram resolvidos em Linguagem C)
 
-## Conteúdos que aprendi: 
-- Tipos de dados;
+## Conteúdos Disponíveis: 
+- Projeto Integrador (Feito no 1º Semestre);
 
-- Testes e Condições (If, ElseIf, Else, Switch);
-
-- Laços (While, Do While, For);
+- Algoritmos e Lógica de Programação (Feito no 1º Semestre);
 
 ##      
