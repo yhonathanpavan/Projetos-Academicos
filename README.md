@@ -10,4 +10,8 @@ Olá! Deixo aqui alguns exercícios e pequenos projetos que fiz durante o meu ap
 
 - **Linguagem de Programação** (Feito no 2º Semestre);
 
+- **Programação Orientada a Objeto** (Feito no 4º Semestre);
+
+- **Programação de Scripts** (Feito no 4º Semestre);
+
 ##      
