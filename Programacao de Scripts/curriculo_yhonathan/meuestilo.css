@@ -1,0 +1,51 @@
+body{
+    background-color: lightgray;
+}
+
+  .conteudo{
+      margin-left: 140px;
+      margin-right: 140px;
+      background-color: white;
+      padding: 10px 50px;
+      border-radius: 2%;
+      border-style: solid;
+      box-shadow: 10px 50px 25px;
+  }
+
+  button{
+      border-radius: 10%;
+      margin: 0px 10px;
+  }
+
+  button.azul{
+      background-color: lightblue;
+      color: black;
+      font-weight: bold;
+      font-size: 12pt;
+      margin-left: 20px;
+  }
+
+  button.vermei{
+    background-color: lightcoral;
+    color: black;
+    font-weight: bold;
+    font-size: 12pt;
+    margin-left: 20px;
+}
+
+button.verde{
+    background-color: lightgreen;
+    color: black;
+    font-weight: bold;
+    font-size: 12pt;
+    margin-left: 20px;
+}
+
+  div.centraliza{
+      text-align: center;
+  }
+
+
+
+
+  
